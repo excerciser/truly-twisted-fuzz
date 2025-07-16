@@ -1,2 +1,3 @@
 # truly-twisted-fuzz
-fuzz pedal for my friend. It's basically an Acapulco Gold with the SSBS Mini EQ
+This circuit was made by taking the Acapulco Gold and putting the brilliant SSBS Mini EQ into it. There are two gain stages in the fuzz section, each consisting of an LM386 audio amplifier IC (hahaha). The bass EQ control is in circuit between these two gain stages, and the treble EQ control is the last section before the output. I'm pretty happy with how it sounds on the breadboard but I'm still experimenting with the circuit and various component values. The 386 has such a low input impedance (~50k), I'm thinking of trying a jfet buffer on the input and seeing what that does to the sound. Anyways this is just for fun, as well as an excuse to learn PCB layout after only using Eagle to make schematics. Hope you enjoy!
+-Corey
